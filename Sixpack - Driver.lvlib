@@ -53,8 +53,8 @@
 		<Item Name="VStartVmin.ctl" Type="VI" URL="../PackDLL/VStartVmin.ctl"/>
 	</Item>
 	<Item Name="Documentation" Type="Folder">
-		<Item Name="SIXpack_2_manual.pdf" Type="Document" URL="../Documentation/SIXpack_2_manual.pdf"/>
-		<Item Name="SIXpack_manual_V2.3_PHELIX-Version.pdf" Type="Document" URL="../Documentation/SIXpack_manual_V2.3_PHELIX-Version.pdf"/>
-		<Item Name="SIXpack_manual_V3.0.pdf" Type="Document" URL="../Documentation/SIXpack_manual_V3.0.pdf"/>
+		<Item Name="SIXpack_2_manual.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/SIXpack_2_manual.pdf"/>
+		<Item Name="SIXpack_manual_V2.3_PHELIX-Version.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/SIXpack_manual_V2.3_PHELIX-Version.pdf"/>
+		<Item Name="SIXpack_manual_V3.0.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/SIXpack_manual_V3.0.pdf"/>
 	</Item>
 </Library>
